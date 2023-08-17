@@ -111,6 +111,7 @@ button{
     color: #fff;
     font-size: 1.1rem;
     font-weight: var(--Fant-weight-bold);
+    cursor: pointer;
     transition: all 0.15s;
 }
 
